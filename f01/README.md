@@ -1,6 +1,7 @@
 # Fundamentos de Computação e Linux
 
 Construção de uma base sólida em conceitos de computação, sistemas operacionais e utilização do terminal Linux, desenvolvendo habilidades essenciais para atividades de Cybersecurity.
+Foi adquirido conhecimentos fundamentais de computação, sistemas operacionais e Linux, criando a base necessária.
 
 ---
 ## Conteúdos Abordados:
@@ -81,6 +82,5 @@ Construção de uma base sólida em conceitos de computação, sistemas operacio
 * Utilização do terminal como ferramenta principal de administração.
 * Resolução de desafios práticos utilizando comandos de linha de comando.
 
----
 
-Ao final da Fase 01, foram adquiridos os conhecimentos fundamentais de computação, sistemas operacionais e Linux, criando a base necessária para avançar para conteúdos de Cybersecurity, análise de sistemas e segurança ofensiva e defensiva.
+
