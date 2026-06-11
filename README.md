@@ -1,6 +1,6 @@
 # Cybersecurity Training
 
-Repositório dedicado para documentar minha jornada de aprendizado em Cybersecurity aprendendo desde a Base.
+Repositório dedicado para documentar minha jornada de aprendizado aprendendo desde a Base.
 
 Aqui estão registrados os laboratórios, desafios, anotações e conceitos estudados durante minha formação, com foco em fundamentos de computação, Linux, redes, segurança da informação e práticas de análise de segurança.
 
