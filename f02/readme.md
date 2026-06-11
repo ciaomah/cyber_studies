@@ -2,7 +2,7 @@
 
 ## Fundamentos de Programação e Versionamento
 
-Nesta fase do treinamento foram estudados os conceitos fundamentais de programação, utilizando Python como linguagem, além dos princípios de versionamento de código com Git e GitHub.
+Nesta fase do treinamento foram estudados os conceitos fundamentais de programação utilizando Python como linguagem, além dos princípios de versionamento de código com Git e GitHub.
 
 ---
 
