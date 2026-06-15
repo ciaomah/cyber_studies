@@ -34,8 +34,8 @@ Durante esta fase foram estudados os fundamentos de hardware, sistemas operacion
 #### Permissões, Usuários e Segurança
 * Controle de acesso através de permissões.
 * Conceitos de usuário comum e root.
-* Utilização de sudo.
-* Alteração de permissões com chmod.
+* Utilização de `sudo`.
+* Alteração de permissões com `chmod`.
 * Conceito de menor privilégio.
 
 #### Processos e Serviços
@@ -45,21 +45,21 @@ Durante esta fase foram estudados os fundamentos de hardware, sistemas operacion
 * Conceitos de serviços e daemons.
 
 #### Edição de Arquivos no Terminal
-* Utilização do editor nano.
-* Conceitos básicos de sobrevivência no vim.
+* Utilização do editor `nano`.
+* Conceitos básicos de sobrevivência no `vim`.
 * Criação e edição de arquivos diretamente pelo terminal.
 
 #### Busca e Investigação no Sistema
-* Pesquisa de conteúdo com grep.
-* Localização de arquivos com find.
+* Pesquisa de conteúdo com `grep`.
+* Localização de arquivos com `find`.
 * Análise de logs.
 * Filtragem de informações relevantes.
 
 #### Pipes e Redirecionamento
-* Encadeamento de comandos utilizando |.
-* Redirecionamento de saída com > e >>.
+* Encadeamento de comandos utilizando `|`.
+* Redirecionamento de saída com `>` e `>>`.
 * Manipulação de fluxos de saída e erro.
-* Uso de sort, uniq e wc.
+* Uso de `sort`, `uniq` e `wc`.
 
 #### PowerShell
 * Conceitos básicos do terminal Windows.
