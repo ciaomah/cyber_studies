@@ -83,17 +83,17 @@ Durante esta fase foram estudados os fundamentos de hardware, sistemas operacion
 
 ## Habilidades Desenvolvidas:
 
--> Navegação eficiente em ambientes Linux.
--> Manipulação de arquivos e diretórios pelo terminal.
--> Leitura e análise de logs.
--> Pesquisa e localização de informações no sistema.
--> Gerenciamento básico de permissões e usuários.
--> Compreensão do funcionamento de processos e serviços.
--> Utilização de pipes e automação simples através da linha de comando.
--> Edição de arquivos diretamente no terminal.
--> Interpretação de mensagens de erro e troubleshooting básico.
--> Resolução de desafios práticos de investigação utilizando ferramentas nativas do Linux.
--> Construção da base necessária para estudos de redes, segurança ofensiva e defensiva.
+* Navegação eficiente em ambientes Linux.
+* Manipulação de arquivos e diretórios pelo terminal.
+* Leitura e análise de logs.
+* Pesquisa e localização de informações no sistema.
+* Gerenciamento básico de permissões e usuários.
+* Compreensão do funcionamento de processos e serviços.
+* Utilização de pipes e automação simples através da linha de comando.
+* Edição de arquivos diretamente no terminal.
+* Interpretação de mensagens de erro e troubleshooting básico.
+* Resolução de desafios práticos de investigação utilizando ferramentas nativas do Linux.
+* Construção da base necessária para estudos de redes, segurança ofensiva e defensiva.
 
 
 
