@@ -14,6 +14,6 @@ def classificar(nota):
         return "aprovado"
     else:
         return "reprovado"
-    
-    
+
+
 print(classificar(media([85, 92, 78])))
