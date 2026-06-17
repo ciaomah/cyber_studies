@@ -1,2 +1,3 @@
 Aprendi a usar try/except e with open.
 Aprendi a fazer tabuada
+[17-06-2026 19:44] venv, requirements, requests, datetime..

@@ -1,7 +1,11 @@
+from datetime import datetime
+
 resposta = input("O que você aprendeu hoje? ")
 
+data_hora_atual = datetime.now().strftime("%d-%m-%Y %H:%M")
+
 with open("bordo.txt", "a") as caderno:
-    caderno.write(f"{resposta}\n")
+    caderno.write(f"[{data_hora_atual}] {resposta}\n")
 
 print("\nAnotacao salva com sucesso!\n")
 
