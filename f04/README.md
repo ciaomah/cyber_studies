@@ -49,6 +49,12 @@ Os conceitos foram aplicados em laboratórios práticos e também trabalhamos em
 * Persistência de dados utilizando volumes
 * Arquitetura multi-container
 * Documentação do projeto no GitHub
+---
+
+### Comandos Praticados
+
+`docker pull` • `docker run` • `docker ps` • `docker stop` • `docker start` • `docker restart` • `docker rm` • `docker exec` • `docker logs` • `docker inspect` • `docker images` • `docker build` • `docker tag` • `docker network` • `docker volume` • `docker compose up` • `docker compose down` • `docker compose ps` • `docker compose logs`
 
 ---
+
 
