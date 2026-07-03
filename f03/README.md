@@ -4,7 +4,7 @@ Nesta fase do treinamento foram estudados os conceitos fundamentais de redes de 
 
 ---
 
-## Conteúdos Abordados:
+### Conteúdos Abordados:
 
 #### Redes de Computadores e Endereçamento de Rede
 * Conceitos de LAN, WAN e Intranet.
@@ -21,46 +21,47 @@ Nesta fase do treinamento foram estudados os conceitos fundamentais de redes de 
 * Papel dos protocolos em cada camada.
 
 #### Portas e Protocolos
-* Conceito de portas de comunicação.
-* Portas mais utilizadas:
-  * 22 (SSH)
-  * 53 (DNS)
-  * 80 (HTTP)
-  * 443 (HTTPS)
+Conceito de portas de comunicação.
+Portas mais utilizadas:
+* 22 (SSH)
+* 53 (DNS)
+* 80 (HTTP)
+* 443 (HTTPS)
 * Diferença entre TCP e UDP.
 
 #### DNS
 
-* Resolução de nomes para IP.
-* Tipos de registros:
-  * A
-  * AAAA
-  * CNAME
-  * MX
-  * TXT
+Resolução de nomes para IP.
+Tipos de registros:
+* A
+* AAAA
+* CNAME
+* MX
+* TXT
 * Utilização de `dig`.
 
 ### HTTP e HTTPS
 
-* Estrutura de Requests e Responses.
-* Headers HTTP.
-* Métodos HTTP:
-  * GET
-  * POST
-  * PUT
-  * PATCH
-  * DELETE
+Estrutura de Requests e Responses.
 
-* Status Codes:
-  * 2xx
-  * 3xx
-  * 4xx
-  * 5xx
-* TLS, certificados digitais e criptografia HTTPS.
+Headers HTTP - Métodos HTTP:
+* GET
+* POST
+* PUT
+* PATCH
+* DELETE
+
+Status Codes:
+* 2xx
+* 3xx
+* 4xx
+* 5xx
+
+TLS, certificados digitais e criptografia HTTPS.
 
 #### Ferramentas de Diagnóstico
 
-* `ping` • `traceroute` / `tracert` • `curl` • `dig` • `nc` (netcat) • `ss` / `netstat` • `tcpdump`
+ `ping` • `traceroute` / `tracert` • `curl` • `dig` • `nc` (netcat) • `ss` / `netstat` • `tcpdump`
 
 #### Análise de Tráfego
 * Conceitos de captura de pacotes.
@@ -79,7 +80,7 @@ Nesta fase do treinamento foram estudados os conceitos fundamentais de redes de 
 * Técnicas de enumeração de serviços.
 ---
 
-## Habilidades Desenvolvidas
+### Habilidades Desenvolvidas
 Ao final desta fase, fui capaz de:
 
 * Entender a comunicação entre dispositivos em redes.
