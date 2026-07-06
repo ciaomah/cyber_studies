@@ -23,5 +23,5 @@ Cada fase contém resumos dos conteúdos estudados, comandos utilizados e concei
 * Fase 02 -> Lógica de Programação (Python básico) e Git/Github
 * Fase 03 -> Redes
 * Fase 04 -> Containers (Docker) - 
-  [docker-diary](https://github.com/ciaomah/docker-diary)
+  [Diário docker](https://github.com/ciaomah/docker-diary)
 * Fase 05 -> CI/CD
