@@ -13,4 +13,5 @@ jobs:
             - name: Install dependencies
               run: pip install pytest
             - name: Run tests
-              run: python -m pytest f05/
+              working-directory: ./f05
+              run: python -m pytest
