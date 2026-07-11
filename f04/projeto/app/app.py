@@ -45,6 +45,9 @@ def init_banco():
     cur.close()
     conn.close()
 
+def mensagem_boas_vindas():
+    return {"esquadrao": "Bem vindo!", "status": "Online"}
+
 
 @app.route("/")
 def home():
@@ -59,6 +62,8 @@ def home():
     conn.commit()
     cur.close()
     conn.close()
+
+    dados = mensagem_boas_vindas()
 
     return jsonify(
         {"esquadrao": "Bem vindo!", "status": "Online", "visitas": total_visitas}
