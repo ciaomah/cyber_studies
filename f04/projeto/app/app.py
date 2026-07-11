@@ -66,13 +66,7 @@ def home():
 
     dados = mensagem_boas_vindas()
 
-    return jsonify(
-        {
-            **dados,
-            "total_visitas": total_visitas,
-        }
-    )
-
+    return jsonify({**dados, "total_visitas": total_visitas})
 
 if __name__ == "__main__":
     init_banco()
