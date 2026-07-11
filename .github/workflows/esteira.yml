@@ -13,10 +13,13 @@ jobs:
                 cache: "pip"
             - name: Run pip install
               working-directory: ./f04/projeto
-              run: pip install -r app/requirements.txt
+              run: |
+                pip install -r app/requirements.txt
+                pip install pytest #
+
             - name: Run tests
               working-directory: ./f04/projeto
-              run: python -m pytest -v
+              run: PYTHONPATH=app python -m pytest -v
 
     imagem:
         needs: testes
