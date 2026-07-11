@@ -68,6 +68,7 @@ def home():
 
     return jsonify({**dados, "total_visitas": total_visitas})
 
+
 if __name__ == "__main__":
     init_banco()
     app.run(host="0.0.0.0", port=5000)
