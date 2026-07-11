@@ -67,7 +67,10 @@ def home():
     dados = mensagem_boas_vindas()
 
     return jsonify(
-        {**dados, "total_visitas": total_visitas,}
+        {
+            **dados,
+            "total_visitas": total_visitas,
+        }
     )
 
 
