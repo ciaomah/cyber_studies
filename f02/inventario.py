@@ -2,7 +2,7 @@ maquina = {
     "hostname": "PC-ciaomah",
     "sistema": "Ubuntu 22.04",
     "cpu_nucleos": 4,
-    "atualizada": False
+    "atualizada": False,
 }
 
 print("--- Ficha da Máquina Inicial ---")
