@@ -17,9 +17,17 @@ Cada fase contém resumos dos módulos, desafios práticos dos conteúdos estuda
 
 ---
 
-* Fase 01 -> Sistema Operacional e Fundamentos
-* Fase 02 -> Lógica de Programação (Python básico) e Git/Github
-* Fase 03 -> Redes
-* Fase 04 -> Containers (Docker) - 
-  [Diário docker](https://github.com/ciaomah/docker-diary)
-* Fase 05 -> CI/CD
+## Organização do Repositório
+
+#### [F01 - Fundamentos](https://github.com/ciaomah/cyber_studies/tree/main/f01_fundamentos)
+Criando a base necessária para entender como a infraestrutura funciona.
+* **[Sistema Operacional](https://github.com/ciaomah/cyber_studies/tree/main/f01_fundamentos/01_sistema_operacional)** Administração Linux, shell scripting e produtividade no terminal.
+* **[Lógica & Git](https://github.com/ciaomah/cyber_studies/tree/main/f01_fundamentos/02_logica_e_git)** Desenvolvimento básico em Python e boas práticas de versionamento.
+* **[Redes](https://github.com/ciaomah/cyber_studies/tree/main/f01_fundamentos/03_redes)** Protocolos, modelo OSI/TCP-IP e resolução de problemas de conectividade.
+
+#### [F02 - DevOps](https://github.com/ciaomah/cyber_studies/tree/main/f02_devops)
+Práticas modernas de automação, padronização e entrega contínua
+* **[Containers Docker](https://github.com/ciaomah/cyber_studies/tree/main/f02_devops/04_containers)** Criação de imagens, orquestração local e meu **[Diário docker](https://github.com/ciaomah/docker-diary)**
+* **[CI/CD](https://github.com/ciaomah/cyber_studies/tree/main/f02_devops/05_cicd)** Automação de deploys e esteiras de integração contínua.
+
+
