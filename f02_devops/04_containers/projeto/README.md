@@ -11,26 +11,32 @@ A aplicação registra e mantém um contador de visitas persistente no banco de 
 
 #### Pré-requisitos:
 Antes de iniciar, certifique-se de ter o Python e o Git instalado em sua máquina Linux.
-```bash
-# Atualizar pacotes e instalar dependências do sistema
-sudo apt update && sudo apt install -y python3-pip python3-xlib git
-```
-```bash
-# Clone o Repositório
-git clone https://github.com/ciaomah/sysops-devops
 
-# Entrar na pasta do projeto
-cd sysops-devops/f02_devops/04_containers/projeto/
+#### Como executar com Docker
 
-# Instalar dependências locais (Opcional, para rodar sem Docker)
-pip install -r requirements.txt
-```
 ```bash
-# Executar com Docker
-# dentro da pasta projeto/
+# Construir e iniciar os containers em segundo plano
 docker compose up -d --build
 ```
 
+**Acessar a aplicação:**
+- [http://localhost:8000](http://localhost:8000)
+
+```bash
+#Via terminal:
+curl http://localhost:8000
+```
+
+**retorno de resposta:**
+```bash
+{
+    "esquadrão": "Bem vindo!",
+ "status": "Online",
+  "visitas": 1
+  }
+```
+
+  A cada nova requisição, o contador é incrementado e armazenado de forma persistente no PostgreSQL.
 
 ---
 ### Conceitos Praticados:
@@ -63,26 +69,6 @@ docker compose up -d --build
 
 O projeto proporcionou uma prática intensiva em busca de resolução de problemas. Durante o desenvolvimento, diversos erros foram identificados e corrigidos até seu funcionamento completo, permitindo compreender o funcionamento das ferramentas na prática e fortalecer o processo de aprendizado.
 
----
-
-#### Como executar
-
-**Construir e iniciar os containers:**
-- `docker compose up --build`.
-
-**Acessar a aplicação:**
-- `http://localhost:8000`
-Via terminal:
-- `curl http://localhost:8000`
-
-**retorno de resposta:**
-{
-    "esquadrão": "Bem vindo!",
- "status": "Online",
-  "visitas": 1
-  }
-
-  A cada nova requisição, o contador é incrementado e armazenado de forma persistente no PostgreSQL.
 
 ---
 
