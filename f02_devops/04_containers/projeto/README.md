@@ -13,7 +13,7 @@ A aplicação registra e mantém um contador de visitas persistente no banco de 
 Antes de iniciar, certifique-se de ter o Python e o Git instalado em sua máquina Linux.
 
 #### Como executar com Docker
-
+Dentro da pasta do projeto:
 ```bash
 # Construir e iniciar os containers em segundo plano
 docker compose up -d --build
