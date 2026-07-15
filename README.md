@@ -14,9 +14,9 @@ Cada módulo possui documentação, comandos praticados e aprendizados técnicos
 
 #### [F01 - Fundamentos](https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos)
 Criando a base necessária para entender como a infraestrutura funciona.
-* **[Sistema Operacional](https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos/01_sistema_operacional)** Administração Linux, shell scripting e produtividade no terminal.
-* **[Lógica & Git](https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos/02_logica_e_git)** Desenvolvimento básico em Python e boas práticas de versionamento.
-* **[Redes](https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos/03_redes)** Protocolos, modelo OSI/TCP-IP e resolução de problemas de conectividade.
+* **Sistema Operacional - [README]([https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos/01_sistema_operacional](https://github.com/ciaomah/sysops-devops/blob/main/f01_fundamentos/01_sistema_operacional/README.md))** Administração Linux, shell scripting e produtividade no terminal.
+* **Lógica & Git - [README]([https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos/02_logica_e_git](https://github.com/ciaomah/sysops-devops/blob/main/f01_fundamentos/02_logica_e_git/README.md))** Desenvolvimento básico em Python e boas práticas de versionamento.
+* **Redes - [README]([https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos/03_redes](https://github.com/ciaomah/sysops-devops/blob/main/f01_fundamentos/03_redes/README.md))** Protocolos, modelo OSI/TCP-IP e resolução de problemas de conectividade.
 
 #### [F02 - DevOps](https://github.com/ciaomah/sysops-devops/tree/main/f02_devops)
 Práticas modernas de automação, padronização e entrega contínua.
