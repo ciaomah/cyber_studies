@@ -1,5 +1,5 @@
 # Docker e Conteinerização
-
+[Diário Docker - Resumo](https://github.com/mayaracsoares/sysops-devops/blob/main/f02_devops/04_containers/diario_docker.md)
 #### Estrutura:
 O módulo está dividido em dois projetos principais com objetivos distintos.
 
